@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://semper-haus-radebeul.pages.dev/sitemap.xml
+
+# Google Bot
+User-agent: Googlebot
+Allow: /
+
+# Bing Bot
+User-agent: Bingbot
+Allow: /
+
+# Yandex Bot
+User-agent: Yandex
+Allow: /
