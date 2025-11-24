@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://semper-haus-radebeul.pages.dev/sitemap.xml
+Sitemap: https://semper-haus-radebeul-b3ec4133f55a.herokuapp.com/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
