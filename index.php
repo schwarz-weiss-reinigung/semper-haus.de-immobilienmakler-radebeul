@@ -10,7 +10,7 @@ $website_url = "https://www.semper-haus.de/standort/immobilienmakler-radebeul";
 $contact_url = "https://www.semper-haus.de/kontakt/";
 $logo_url = "https://www.semper-haus.de/wp-content/uploads/2023/08/semper_logo-e1694597000990.jpg";
 $cloud_stack_url = "https://semper-haus.neocities.org/immobilienmakler-radebeul";
-<link rel="canonical" href="https://semper-haus-radebeul-b3ec4133f55a.herokuapp.com/">
+
 
 // Primary anchor text
 $primary_anchor = "Semper Haus Maklerbüro Radebeul";
@@ -57,6 +57,7 @@ function generateGuestPost() {
     <meta charset=\"UTF-8\">
     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
     <meta name="google-site-verification" content="3mzUiSIoLmrq_m8ZCPRRbJlnHo78RZncHEqYA3HMC7g" />
+    <link rel="canonical" href="https://semper-haus-radebeul-b3ec4133f55a.herokuapp.com/">
     <title>$title</title>
     <meta name=\"description\" content=\"$meta_description\">
     <meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\">
